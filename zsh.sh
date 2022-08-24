@@ -2,6 +2,7 @@ apt-get update
 apt-get upgrade
 apt -y install wget
 apt -y install zsh
+apt -y install git
 chsh root -s /bin/zsh
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 zsh install.sh
