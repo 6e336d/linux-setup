@@ -1,5 +1,5 @@
-apt-get update
-apt-get upgrade
+apt-get -y update
+apt-get -y upgrade
 apt -y install wget
 apt -y install zsh
 apt -y install git
