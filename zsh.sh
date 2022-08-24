@@ -4,6 +4,7 @@ apt -y install wget
 apt -y install zsh
 apt -y install git
 chsh -y root -s /bin/zsh
+cd /root
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 zsh install.sh
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
