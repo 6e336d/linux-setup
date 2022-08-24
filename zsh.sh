@@ -13,3 +13,16 @@ wget https://raw.githubusercontent.com/6e336d/linux-setup/main/zshrc
 mv zshrc .zshrc
 zsh
 rm install.sh
+n
+n
+n
+1
+1
+3
+2
+3
+1
+2
+1
+n
+1
